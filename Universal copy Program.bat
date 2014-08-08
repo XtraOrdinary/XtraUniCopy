@@ -3,7 +3,7 @@
 echo XtraUniCopy
 echo What do you want to do?
 echo ========================
-echo 1. Copy smothing
+echo 1. Copy something
 echo 2. Go to Google
 echo 3. Exit this shit
 echo ========================
@@ -23,4 +23,3 @@ goto home
 START http://www.google.com
 cls
 goto home
-exit 
